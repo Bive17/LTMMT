@@ -1,0 +1,152 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Visual_studio_project_( T\u00EDm )\\Ng\u00E0y em \u0111\u1EB9p nh\u1EA5t\\TechnicalSupportApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{71666C71-A4B1-41C4-9FE9-7D005BCE9A41}|TechnicalSupportApi.csproj|d:\\visual_studio_project_( t\u00EDm )\\ng\u00E0y em \u0111\u1EB9p nh\u1EA5t\\technicalsupportapi\\migrations\\20250723105638_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71666C71-A4B1-41C4-9FE9-7D005BCE9A41}|TechnicalSupportApi.csproj|solutionrelative:migrations\\20250723105638_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71666C71-A4B1-41C4-9FE9-7D005BCE9A41}|TechnicalSupportApi.csproj|d:\\visual_studio_project_( t\u00EDm )\\ng\u00E0y em \u0111\u1EB9p nh\u1EA5t\\technicalsupportapi\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71666C71-A4B1-41C4-9FE9-7D005BCE9A41}|TechnicalSupportApi.csproj|solutionrelative:migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71666C71-A4B1-41C4-9FE9-7D005BCE9A41}|TechnicalSupportApi.csproj|d:\\visual_studio_project_( t\u00EDm )\\ng\u00E0y em \u0111\u1EB9p nh\u1EA5t\\technicalsupportapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71666C71-A4B1-41C4-9FE9-7D005BCE9A41}|TechnicalSupportApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71666C71-A4B1-41C4-9FE9-7D005BCE9A41}|TechnicalSupportApi.csproj|d:\\visual_studio_project_( t\u00EDm )\\ng\u00E0y em \u0111\u1EB9p nh\u1EA5t\\technicalsupportapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{71666C71-A4B1-41C4-9FE9-7D005BCE9A41}|TechnicalSupportApi.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 29,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20250723105638_InitialCreate.cs",
+              "DocumentMoniker": "D:\\Visual_studio_project_( T\u00EDm )\\Ng\u00E0y em \u0111\u1EB9p nh\u1EA5t\\TechnicalSupportApi\\Migrations\\20250723105638_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250723105638_InitialCreate.cs",
+              "ToolTip": "D:\\Visual_studio_project_( T\u00EDm )\\Ng\u00E0y em \u0111\u1EB9p nh\u1EA5t\\TechnicalSupportApi\\Migrations\\20250723105638_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20250723105638_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T11:02:12.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\Visual_studio_project_( T\u00EDm )\\Ng\u00E0y em \u0111\u1EB9p nh\u1EA5t\\TechnicalSupportApi\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "D:\\Visual_studio_project_( T\u00EDm )\\Ng\u00E0y em \u0111\u1EB9p nh\u1EA5t\\TechnicalSupportApi\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T11:02:10.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Visual_studio_project_( T\u00EDm )\\Ng\u00E0y em \u0111\u1EB9p nh\u1EA5t\\TechnicalSupportApi\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Visual_studio_project_( T\u00EDm )\\Ng\u00E0y em \u0111\u1EB9p nh\u1EA5t\\TechnicalSupportApi\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAEwEcAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T16:37:40.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\Visual_studio_project_( T\u00EDm )\\Ng\u00E0y em \u0111\u1EB9p nh\u1EA5t\\TechnicalSupportApi\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "D:\\Visual_studio_project_( T\u00EDm )\\Ng\u00E0y em \u0111\u1EB9p nh\u1EA5t\\TechnicalSupportApi\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAACDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-22T16:26:45.417Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 128,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 763,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
